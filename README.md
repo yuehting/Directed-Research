@@ -2,7 +2,7 @@
 
 # Repo for Yueh-Ting's directed research
 
-[Here]([https://theconnectory-yuehtingwu.shinyapps.io/directed_research_r/]) is the URL to my ShinyApp website.
+Here([https://theconnectory-yuehtingwu.shinyapps.io/directed_research_r/]) is the URL to my ShinyApp website.
  
 
 ## Setup 
